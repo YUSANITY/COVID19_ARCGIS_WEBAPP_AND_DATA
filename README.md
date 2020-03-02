@@ -5,11 +5,11 @@ Created a arcgis webapp to summaries and map the covid-19 cases in Singapore. Do
 Click Here: https://lnkd.in/fydRuCA to access the webapp. 
 
 ## Printscreen of the Webapps. ## 
-** The homepage of the webapp. **
+
 ![Image of Yaktocat](https://github.com/YUSANITY/COVID19_ARCGIS_WEBAPP_AND_DATA/blob/master/webapp3.png)
-** Map of the Webapp. **
+
 ![Image of Yaktocat](https://github.com/YUSANITY/COVID19_ARCGIS_WEBAPP_AND_DATA/blob/master/webapp2.png)
-** Location Zero in on Webapp map. **
+
 ![Image of Yaktocat](https://github.com/YUSANITY/COVID19_ARCGIS_WEBAPP_AND_DATA/blob/master/webapp1.png)
 
 I also collated a datasetfrom MOH Website. Feel free to use or feedback on how to improve the dataset.
